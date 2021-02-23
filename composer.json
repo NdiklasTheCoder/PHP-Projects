@@ -1,0 +1,12 @@
+{
+    "name": "ndiklas/php-projects",
+    "authors": [
+        {
+            "name": "NdiklasTheCoder",
+            "email": "nicholas.v.ndiki@gmail.com"
+        }
+    ],
+    "require": {
+        "cocur/slugify": "^4.0"
+    }
+}
