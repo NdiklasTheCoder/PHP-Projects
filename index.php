@@ -11,6 +11,9 @@
 <body>
     <?php
     echo 'Hello World';
+    //Echo HTML tags
+    echo '<br/>';
+    echo 'Second Line';
     ?>
 </body>
 
